@@ -7,7 +7,7 @@
 Необходимо изучить перечислите все имеющиеся баги а так же укажить приоритет (high, medium, low) для изображения по ссылке: 
 https://github.com/user-attachments/assets/a8c18dc6-bd16-4ba0-b152-2762922d542c
 
-Решение для задания 1 находится в фале Task_1.md в корневом каталоге по ссылке: https://github.com/Shnoorok/QA-trainee-assignment-winter-2025/blob/079ab04593b674c3fe0af08abe6e4ffd821daa78/Task_1.md 
+Решение для задания 1 находится в фале Task_1.md в корневом каталоге по ссылке: https://github.com/Shnoorok/QA-trainee-assignment-winter-2025/blob/main/Task_1.md
 
 **Задание 2.1**
 
