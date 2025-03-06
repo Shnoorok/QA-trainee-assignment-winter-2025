@@ -63,5 +63,5 @@ pytest -v tests/test_api.py
 
 **Баги:**
 
-Обнаруженные в процессе тестирования баги описаны в файле BUGS.md, ссылка: https://github.com/Shnoorok/QA-trainee-assignment-winter-2025/blob/1cad181c3837d08d3b6c288fcc1bfbd08d25d7aa/BUGS.md
+Обнаруженные в процессе тестирования баги описаны в файле BUGS.md, ссылка: https://github.com/Shnoorok/QA-trainee-assignment-winter-2025/blob/main/BUGS.md
 
